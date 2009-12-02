@@ -1,0 +1,85 @@
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.1_src\Netcode.Scan\obj\Debug\Netcode.Backup.exe
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.1_src\Netcode.Scan\obj\Debug\Netcode.Backup.pdb
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.1_src\Netcode.Scan\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.1_src\Netcode.Scan\obj\Debug\Netcode.Scan.FormDetails.resources
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.1_src\Netcode.Scan\obj\Debug\Netcode.Scan.FormMain.resources
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.1_src\Netcode.Scan\obj\Debug\Netcode.Backup.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.1_src\Netcode.Scan\obj\Debug\Netcode.Backup.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.1_src\Netcode.Scan\bin\Debug\Netcode.Backup.exe
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.1_src\Netcode.Scan\bin\Debug\Netcode.Backup.pdb
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.1_src\Netcode.Scan\bin\Debug\Netcode.Common.dll
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.1_src\Netcode.Scan\bin\Debug\Netcode.Common.pdb
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.1_src\Netcode.Scan\obj\Debug\Netcode.Backup.FormVersionExplorer.resources
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.2_src\Netcode.Scan\obj\Debug\Netcode.Backup.exe
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.2_src\Netcode.Scan\obj\Debug\Netcode.Backup.pdb
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.2_src\Netcode.Scan\bin\Debug\Netcode.Backup.exe
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.2_src\Netcode.Scan\bin\Debug\Netcode.Backup.pdb
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.2_src\Netcode.Scan\bin\Debug\Netcode.Common.dll
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.2_src\Netcode.Scan\bin\Debug\Netcode.Common.pdb
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.2_src\Netcode.Scan\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.2_src\Netcode.Scan\obj\Debug\Netcode.Scan.FormDetails.resources
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.2_src\Netcode.Scan\obj\Debug\Netcode.Scan.FormMain.resources
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.2_src\Netcode.Scan\obj\Debug\Netcode.Backup.FormVersionExplorer.resources
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.2_src\Netcode.Scan\obj\Debug\Netcode.Backup.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\filebackup_v1.2_src\Netcode.Scan\obj\Debug\Netcode.Backup.csproj.GenerateResource.Cache
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Scan\obj\Debug\Netcode.Backup.exe
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Scan\obj\Debug\Netcode.Backup.pdb
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Scan\bin\Debug\Netcode.Backup.exe
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Scan\bin\Debug\Netcode.Backup.pdb
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Scan\bin\Debug\Netcode.Common.dll
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Scan\bin\Debug\Netcode.Common.pdb
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Scan\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Scan\obj\Debug\Netcode.Scan.FormDetails.resources
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Scan\obj\Debug\Netcode.Scan.FormMain.resources
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Scan\obj\Debug\Netcode.Backup.FormVersionExplorer.resources
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Scan\obj\Debug\Netcode.Backup.Properties.Resources.resources
+C:\Users\Виктор\Desktop\filebackup_v1.4_src\Netcode.Scan\obj\Debug\Netcode.Backup.csproj.GenerateResource.Cache
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Scan\obj\Debug\Netcode.Backup.exe
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Scan\obj\Debug\Netcode.Backup.pdb
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Scan\bin\Debug\Netcode.Backup.exe
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Scan\bin\Debug\Netcode.Backup.pdb
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Scan\bin\Debug\Netcode.Common.dll
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Scan\bin\Debug\Netcode.Common.pdb
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Scan\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Scan\obj\Debug\Netcode.Scan.FormDetails.resources
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Scan\obj\Debug\Netcode.Scan.FormMain.resources
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Scan\obj\Debug\Netcode.Backup.Properties.Resources.resources
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Scan\obj\Debug\Netcode.Backup.csproj.GenerateResource.Cache
+C:\Users\Виктор\Desktop\bin\Netcode.Backup.exe
+C:\Users\Виктор\Desktop\bin\Netcode.Backup.pdb
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Scan\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Scan\obj\Release\Netcode.Scan.FormDetails.resources
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Scan\obj\Release\Netcode.Scan.FormMain.resources
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Scan\obj\Release\Netcode.Backup.Properties.Resources.resources
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Scan\obj\Release\Netcode.Backup.csproj.GenerateResource.Cache
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Scan\obj\Release\Netcode.Backup.exe
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\Netcode.Scan\obj\Release\Netcode.Backup.pdb
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\bin\Netcode.Backup.exe
+C:\Users\Виктор\Desktop\filebackup_v1.6_src\bin\Netcode.Backup.pdb
+C:\Users\Виктор\Desktop\filebackup_v1.8_src\bin\Netcode.Backup.exe
+C:\Users\Виктор\Desktop\filebackup_v1.8_src\bin\Netcode.Backup.pdb
+C:\Users\Виктор\Desktop\filebackup_v1.8_src\Netcode.Scan\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\filebackup_v1.8_src\Netcode.Scan\obj\Release\Netcode.Scan.FormDetails.resources
+C:\Users\Виктор\Desktop\filebackup_v1.8_src\Netcode.Scan\obj\Release\Netcode.Scan.FormMain.resources
+C:\Users\Виктор\Desktop\filebackup_v1.8_src\Netcode.Scan\obj\Release\Netcode.Backup.Properties.Resources.resources
+C:\Users\Виктор\Desktop\filebackup_v1.8_src\Netcode.Scan\obj\Release\Netcode.Backup.csproj.GenerateResource.Cache
+C:\Users\Виктор\Desktop\filebackup_v1.8_src\Netcode.Scan\obj\Release\Netcode.Backup.exe
+C:\Users\Виктор\Desktop\filebackup_v1.8_src\Netcode.Scan\obj\Release\Netcode.Backup.pdb
+C:\Users\Виктор\Desktop\filebackup_v1.9_src\Netcode.Scan\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\filebackup_v1.9_src\Netcode.Scan\obj\Release\Netcode.Scan.FormDetails.resources
+C:\Users\Виктор\Desktop\filebackup_v1.9_src\Netcode.Scan\obj\Release\Netcode.Scan.FormMain.resources
+C:\Users\Виктор\Desktop\filebackup_v1.9_src\Netcode.Scan\obj\Release\Netcode.Backup.Properties.Resources.resources
+C:\Users\Виктор\Desktop\filebackup_v1.9_src\Netcode.Scan\obj\Release\Netcode.Backup.csproj.GenerateResource.Cache
+C:\Users\Виктор\Desktop\filebackup_v1.9_src\Netcode.Scan\obj\Release\Netcode.Backup.exe
+C:\Users\Виктор\Desktop\filebackup_v1.9_src\Netcode.Scan\obj\Release\Netcode.Backup.pdb
+C:\Users\Виктор\Desktop\filebackup_v1.9_src\bin\Netcode.Backup.exe
+C:\Users\Виктор\Desktop\filebackup_v1.9_src\bin\Netcode.Backup.pdb
+P:\Проекты NL3\filebackup_v2.1_src\bin\Netcode.Backup.exe
+P:\Проекты NL3\filebackup_v2.1_src\bin\Netcode.Backup.pdb
+P:\Проекты NL3\filebackup_v2.1_src\Netcode.Scan\obj\Release\ResolveAssemblyReference.cache
+P:\Проекты NL3\filebackup_v2.1_src\Netcode.Scan\obj\Release\Netcode.Scan.FormDetails.resources
+P:\Проекты NL3\filebackup_v2.1_src\Netcode.Scan\obj\Release\Netcode.Scan.FormMain.resources
+P:\Проекты NL3\filebackup_v2.1_src\Netcode.Scan\obj\Release\Netcode.Backup.Properties.Resources.resources
+P:\Проекты NL3\filebackup_v2.1_src\Netcode.Scan\obj\Release\Netcode.Backup.csproj.GenerateResource.Cache
+P:\Проекты NL3\filebackup_v2.1_src\Netcode.Scan\obj\Release\Netcode.Backup.exe
+P:\Проекты NL3\filebackup_v2.1_src\Netcode.Scan\obj\Release\Netcode.Backup.pdb
